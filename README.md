@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Analista de dados em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduando em Redes De Computadores pela escola Senac - RS.<br>Profissional com perfil analítico, proativo e voltado à solução de problemas.<br>Desenvolvimento de projetos como a criação de dashboards no Power BI, automação de análise com Python, ou a aplicação de SQL para manipulação de bases de dados.<br><br>Excel;<br>Power BI;<br>Noções de Programação;<br>Python;<br>MySQL.</p>
+<p align="left">Analista de dados em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduando em Redes De Computadores pela escola Senac - RS.<br>Profissional com perfil analítico, proativo e voltado à solução de problemas.<br>Desenvolvimento de projetos como a criação de dashboards no Power BI, automação de análise com Python, ou a aplicação de SQL para manipulação de bases de dados.<br><br>Noções de Programação;<br>Power BI;<br>Python;<br>Excel;<br>MySQL.</p>
 
 ###
 
